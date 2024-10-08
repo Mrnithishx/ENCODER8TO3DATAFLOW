@@ -60,13 +60,17 @@ endmodule
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+```
 ![image](https://github.com/iniyasri4464/ENCODER8TO3DATAFLOW/assets/152419072/e6457010-6a32-4099-8e77-6e86fe66b445)
 
-
+```
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+```
 ![image](https://github.com/iniyasri4464/ENCODER8TO3DATAFLOW/assets/152419072/443dbea5-6366-4371-8a3d-32f08150b00c)
+```
 **RESULTS**
+```
 Therefore the code for encoder8to3 has been successfully executed.
-
+```
 
 
